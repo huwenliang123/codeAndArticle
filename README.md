@@ -1,1 +1,6 @@
-## 武林秘籍
+---
+description: 天下武功为快不破
+---
+
+# Initial page
+
